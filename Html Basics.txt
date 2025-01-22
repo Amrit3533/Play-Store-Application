@@ -1,0 +1,3 @@
+<a></a> is used to mae a text as a link
+ eg:  <h2><a href="www.github.com/Amrit3533">By Amrit</a></h2>
+ code validator to check the code.
